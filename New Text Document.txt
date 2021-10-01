@@ -1,0 +1,3 @@
+"IP":{serverofnambung.aternos.me}
+"PORT":{39671}
+"NAME":{BardanraiYTA}
